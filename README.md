@@ -13,3 +13,6 @@ A little about myself 🕵🏻‍♂️:
 - I'm 22 years old., and I live in South Korea.
 - Studying Global Business Administration and Software Engineering in SKKU.
 - I'm currently learning Typescript!
+
+
+My Blog: https://medium.com/daniel-dev

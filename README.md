@@ -15,5 +15,3 @@ A little about myself 🕵🏻‍♂️:
 
 
 My Blog: https://medium.com/daniel-dev
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel2231&layout=compact">

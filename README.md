@@ -2,7 +2,6 @@ Daniel Kang
 ============
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=daniel2231&show_icons=true">
 
-
 My stack of choice 💻: 
 - ReactJS & Styled-Components
 - NodeJS & Express
@@ -16,3 +15,5 @@ A little about myself 🕵🏻‍♂️:
 
 
 My Blog: https://medium.com/daniel-dev
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel2231&layout=compact">

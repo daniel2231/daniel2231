@@ -10,7 +10,7 @@ My stack of choice 💻:
 
 A little about myself 🕵🏻‍♂️:
 - I'm 22 years old., and I live in South Korea.
-- Studying Global Business Administration and Software Engineering in SKKU.
+- Studying Global Business Administration and Software Engineering at SKKU.
 - I'm currently learning Typescript!
 
 

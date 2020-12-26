@@ -1,4 +1,4 @@
-Daniel Kang
+Daniel .K
 ============
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=daniel2231&show_icons=true">
 

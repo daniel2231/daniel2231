@@ -15,3 +15,4 @@ A little about myself 🕵🏻‍♂️:
 
 
 My Blog: https://medium.com/daniel-dev
+My CV: https://www.notion.so/daniel2231/Daniel-K-Full-Stack-Developer-ccb7e3bad9bf47028324c33ad125cdab

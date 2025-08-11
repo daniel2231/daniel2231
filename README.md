@@ -15,5 +15,5 @@ A little about myself 🕵🏻‍♂️:
 - I'm currently learning Typescript!
 
 
-My Blog: https://medium.com/daniel-dev<br/>
+My Blog: https://www.danielkang.top/<br/>
 My CV: https://www.notion.so/daniel2231/Daniel-K-Full-Stack-Developer-ccb7e3bad9bf47028324c33ad125cdab

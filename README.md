@@ -9,10 +9,8 @@ My stack of choice 💻:
 
 A little about myself 🕵🏻‍♂️:
 - Creator of [FairSharky](https://fairsharky.com/)
-- I'm a univ student living in South Korea.
+- Univ student living in South Korea.
 - Studying Global Business Administration and Software Engineering at SKKU.
-- I'm currently learning Typescript!
 
-
-My Blog: https://www.danielkang.top/<br/>
+My Blog: [https://www.danielkang.top](https://www.danielkang.top)<br/>
 My CV: https://www.notion.so/daniel2231/Daniel-K-Full-Stack-Developer-ccb7e3bad9bf47028324c33ad125cdab

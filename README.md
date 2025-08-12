@@ -8,7 +8,7 @@ My stack of choice 💻:
 - Next.js
 
 A little about myself 🕵🏻‍♂️:
-- Creator of FairSharky[https://fairsharky.com/]
+- Creator of [FairSharky](https://fairsharky.com/)
 - I'm a univ student living in South Korea.
 - Studying Global Business Administration and Software Engineering at SKKU.
 - I'm currently learning Typescript!
